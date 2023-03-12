@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1020&lines=Hello!+I+am+Jo%C3%A3o+Ricardo+Jr.;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1020&lines=Hello!+I+am+Bruno+Verneck.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
